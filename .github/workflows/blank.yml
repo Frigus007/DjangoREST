@@ -31,6 +31,4 @@ jobs:
       run: |
         echo Add other actions to build,
         echo test, and deploy your project.
-    - name: Python Django Coverage GitHub Action
-    - name: Django Security Check
-      uses: victoriadrake/django-security-check@v1.0.0
+    
